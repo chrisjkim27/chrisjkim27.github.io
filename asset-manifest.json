@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/chrisjkim27.github.io/static/css/main.042585b1.chunk.css",
+    "main.js": "/chrisjkim27.github.io/static/js/main.a2553d77.chunk.js",
+    "main.js.map": "/chrisjkim27.github.io/static/js/main.a2553d77.chunk.js.map",
+    "runtime-main.js": "/chrisjkim27.github.io/static/js/runtime-main.d68c4081.js",
+    "runtime-main.js.map": "/chrisjkim27.github.io/static/js/runtime-main.d68c4081.js.map",
+    "static/js/2.2c868583.chunk.js": "/chrisjkim27.github.io/static/js/2.2c868583.chunk.js",
+    "static/js/2.2c868583.chunk.js.map": "/chrisjkim27.github.io/static/js/2.2c868583.chunk.js.map",
+    "static/js/3.94225be4.chunk.js": "/chrisjkim27.github.io/static/js/3.94225be4.chunk.js",
+    "static/js/3.94225be4.chunk.js.map": "/chrisjkim27.github.io/static/js/3.94225be4.chunk.js.map",
+    "585aafdfaefbe5f4429a1c24bd73fd6f.js": "/chrisjkim27.github.io/585aafdfaefbe5f4429a1c24bd73fd6f.js",
+    "585aafdfaefbe5f4429a1c24bd73fd6f.js.LICENSE.txt": "/chrisjkim27.github.io/585aafdfaefbe5f4429a1c24bd73fd6f.js.LICENSE.txt",
+    "index.html": "/chrisjkim27.github.io/index.html",
+    "static/css/main.042585b1.chunk.css.map": "/chrisjkim27.github.io/static/css/main.042585b1.chunk.css.map",
+    "static/js/2.2c868583.chunk.js.LICENSE.txt": "/chrisjkim27.github.io/static/js/2.2c868583.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/chrisjkim27.github.io/static/media/SunnySlope.5de483fa.jpg",
+    "static/media/sample1.52c07588.pdf": "/chrisjkim27.github.io/static/media/sample1.52c07588.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d68c4081.js",
+    "static/js/2.2c868583.chunk.js",
+    "static/css/main.042585b1.chunk.css",
+    "static/js/main.a2553d77.chunk.js"
+  ]
+}
