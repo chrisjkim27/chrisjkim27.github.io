@@ -1,26 +1,35 @@
 {
   "files": {
-    "main.css": "/static/css/main.07d8a342.chunk.css",
-    "main.js": "/static/js/main.a2553d77.chunk.js",
-    "main.js.map": "/static/js/main.a2553d77.chunk.js.map",
+    "main.css": "/static/css/main.d97ca20c.chunk.css",
+    "main.js": "/static/js/main.eb5a2d78.chunk.js",
+    "main.js.map": "/static/js/main.eb5a2d78.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.36d93417.js",
     "runtime-main.js.map": "/static/js/runtime-main.36d93417.js.map",
-    "static/js/2.2c868583.chunk.js": "/static/js/2.2c868583.chunk.js",
-    "static/js/2.2c868583.chunk.js.map": "/static/js/2.2c868583.chunk.js.map",
+    "static/js/2.dad7204a.chunk.js": "/static/js/2.dad7204a.chunk.js",
+    "static/js/2.dad7204a.chunk.js.map": "/static/js/2.dad7204a.chunk.js.map",
     "static/js/3.94225be4.chunk.js": "/static/js/3.94225be4.chunk.js",
     "static/js/3.94225be4.chunk.js.map": "/static/js/3.94225be4.chunk.js.map",
     "585aafdfaefbe5f4429a1c24bd73fd6f.js": "/585aafdfaefbe5f4429a1c24bd73fd6f.js",
     "585aafdfaefbe5f4429a1c24bd73fd6f.js.LICENSE.txt": "/585aafdfaefbe5f4429a1c24bd73fd6f.js.LICENSE.txt",
     "index.html": "/index.html",
-    "static/css/main.07d8a342.chunk.css.map": "/static/css/main.07d8a342.chunk.css.map",
-    "static/js/2.2c868583.chunk.js.LICENSE.txt": "/static/js/2.2c868583.chunk.js.LICENSE.txt",
+    "static/css/main.d97ca20c.chunk.css.map": "/static/css/main.d97ca20c.chunk.css.map",
+    "static/js/2.dad7204a.chunk.js.LICENSE.txt": "/static/js/2.dad7204a.chunk.js.LICENSE.txt",
     "static/media/App.css": "/static/media/SunnySlope.5de483fa.jpg",
+    "static/media/BreakoutPlay.2022e124.jpg": "/static/media/BreakoutPlay.2022e124.jpg",
+    "static/media/ClockScreenshot.c74d7152.jpg": "/static/media/ClockScreenshot.c74d7152.jpg",
+    "static/media/DiverFind.7ad76a60.jpg": "/static/media/DiverFind.7ad76a60.jpg",
+    "static/media/DiverFlee.30f0cb63.jpg": "/static/media/DiverFlee.30f0cb63.jpg",
+    "static/media/FroggitPlay.c2cfaf15.jpg": "/static/media/FroggitPlay.c2cfaf15.jpg",
+    "static/media/FroggitStart.2d5a1008.jpg": "/static/media/FroggitStart.2d5a1008.jpg",
+    "static/media/InvadersPlay.f34ec917.jpg": "/static/media/InvadersPlay.f34ec917.jpg",
+    "static/media/InvadersStart.b60a5a15.jpg": "/static/media/InvadersStart.b60a5a15.jpg",
+    "static/media/WebsiteHome.06b4e976.jpg": "/static/media/WebsiteHome.06b4e976.jpg",
     "static/media/sample1.52c07588.pdf": "/static/media/sample1.52c07588.pdf"
   },
   "entrypoints": [
     "static/js/runtime-main.36d93417.js",
-    "static/js/2.2c868583.chunk.js",
-    "static/css/main.07d8a342.chunk.css",
-    "static/js/main.a2553d77.chunk.js"
+    "static/js/2.dad7204a.chunk.js",
+    "static/css/main.d97ca20c.chunk.css",
+    "static/js/main.eb5a2d78.chunk.js"
   ]
 }
