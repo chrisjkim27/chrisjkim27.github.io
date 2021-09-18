@@ -1,7 +1,0 @@
-<html>
-  <head>
-    <meta http-equiv="Refresh" content="2; url=public/index.html">
-  </head>
-  <body>
-  </body>
-</html>
