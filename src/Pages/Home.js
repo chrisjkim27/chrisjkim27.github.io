@@ -10,16 +10,16 @@ import Projects from './Projects'
 function Home() {
     return (
         <>
-        <Landing/>
+            <Landing />
 
-        <div className="home">
-            <Sidebar home={true}/>
-            <MainContent />
-        </div>
+            <div className="home">
+                <Sidebar home={true} />
+                <MainContent />
+            </div>
 
-        <Spacer page={'home'} height={"40px"} />
+            {/* <Spacer page={'home'} height={"40px"} /> */}
 
-        <Footer page={'home'}/>
+            <Footer page={'home'} />
         </>
     )
 }

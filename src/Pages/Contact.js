@@ -15,9 +15,9 @@ function Contact() {
                 </p>
 
                 <p>
-                    I was going to make a contact form with php but GitHub Pages
-                    only supports static sites so I can't do that at the moment. I may
-                    revist later and host a form somewhere else so I can embed here.
+                    I was going to learn PHP and make a contact form with it but GitHub Pages
+                    only supports static sites so I can't make that at the moment. I may
+                    revisit this idea later.
                 </p>
             </div >
 

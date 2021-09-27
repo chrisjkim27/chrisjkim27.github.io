@@ -39,7 +39,8 @@ function Projects() {
                     working on this project.
 
                     I might edit this app over time."
-                    img1={ClockScreenshot} />
+                    imgs={[ClockScreenshot]}
+                    lang="react" />
 
 
                 <ProjectDescription
@@ -50,7 +51,8 @@ function Projects() {
                         CSS and became more familiar with React as well.
                         I used react-router-dom for the multi-page functionality
                         and used react-pdf for displaying my resume pdf."
-                    img1={webHome} />
+                    imgs={[webHome]}
+                    lang="react" />
 
                 <ProjectDescription
                     name="Froggit"
@@ -70,8 +72,8 @@ function Projects() {
                     game state and lives.
 
                     Made using Python."
-                    img1={FroggitStart}
-                    img2={FroggitPlay} />
+                    imgs={[FroggitStart, FroggitPlay]}
+                    lang="python" />
 
                 <ProjectDescription
                     name="Alien Invaders"
@@ -81,8 +83,8 @@ function Projects() {
                     it during the winter break after I took CS 1110.
 
                     Made using Python."
-                    img1={InvadersStart}
-                    img2={InvadersPlay} />
+                    imgs={[InvadersStart, InvadersPlay]}
+                    lang="python" />
 
                 <ProjectDescription
                     name="Breakout"
@@ -92,8 +94,8 @@ function Projects() {
                     winter break after I took CS 1110.
 
                     Made using Python."
-                    img1={BreakoutStart}
-                    img2={BreakoutPlay} />
+                    imgs={[BreakoutStart, BreakoutPlay]}
+                    lang="python" />
 
                 <ProjectDescription
                     name="Sewer Diver"
@@ -102,8 +104,8 @@ function Projects() {
                     It utilized Dijkstra's Shortest Path Algorithm.
 
                     Made using Java."
-                    img1={DiverFind}
-                    img2={DiverFlee} />
+                    imgs={[DiverFind, DiverFlee]}
+                    lang="java" />
             </div>
 
             <Footer page="subpage" />
