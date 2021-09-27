@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.d97ca20c.chunk.css",
-    "main.js": "/static/js/main.d53e3774.chunk.js",
-    "main.js.map": "/static/js/main.d53e3774.chunk.js.map",
+    "main.css": "/static/css/main.9802e933.chunk.css",
+    "main.js": "/static/js/main.f739c5d0.chunk.js",
+    "main.js.map": "/static/js/main.f739c5d0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.36d93417.js",
     "runtime-main.js.map": "/static/js/runtime-main.36d93417.js.map",
     "static/js/2.dad7204a.chunk.js": "/static/js/2.dad7204a.chunk.js",
@@ -12,7 +12,7 @@
     "585aafdfaefbe5f4429a1c24bd73fd6f.js": "/585aafdfaefbe5f4429a1c24bd73fd6f.js",
     "585aafdfaefbe5f4429a1c24bd73fd6f.js.LICENSE.txt": "/585aafdfaefbe5f4429a1c24bd73fd6f.js.LICENSE.txt",
     "index.html": "/index.html",
-    "static/css/main.d97ca20c.chunk.css.map": "/static/css/main.d97ca20c.chunk.css.map",
+    "static/css/main.9802e933.chunk.css.map": "/static/css/main.9802e933.chunk.css.map",
     "static/js/2.dad7204a.chunk.js.LICENSE.txt": "/static/js/2.dad7204a.chunk.js.LICENSE.txt",
     "static/media/App.css": "/static/media/SunnySlope.5de483fa.jpg",
     "static/media/BreakoutPlay.2022e124.jpg": "/static/media/BreakoutPlay.2022e124.jpg",
@@ -29,7 +29,7 @@
   "entrypoints": [
     "static/js/runtime-main.36d93417.js",
     "static/js/2.dad7204a.chunk.js",
-    "static/css/main.d97ca20c.chunk.css",
-    "static/js/main.d53e3774.chunk.js"
+    "static/css/main.9802e933.chunk.css",
+    "static/js/main.f739c5d0.chunk.js"
   ]
 }
