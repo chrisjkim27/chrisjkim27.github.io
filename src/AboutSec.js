@@ -19,6 +19,7 @@ function AboutSec() {
                         to show personal projects and to get better at React and CSS.
                         Explore this site using the navigation bar to the left.
                     </p>
+                    <p>Note that this site is a work in progress.</p>
                     <div className="about-sec-link-icons">
                         <a target="_blank" href="https://www.linkedin.com/in/chrisjkim27" rel="noreferrer noopener"><i class="fab fa-linkedin fa-3x"></i></a>
                         <a target="_blank" href="https://github.com/chrisjkim27" rel="noreferrer noopener"><i class="fab fa-github fa-3x"></i></a>

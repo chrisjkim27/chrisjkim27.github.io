@@ -503,7 +503,7 @@ margin: 20px;
 
 /* ---------------------------------Photography page styling------------------------- */
 .photo-page-container {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("./Images/MistSlope.jpg"); 
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./Images/MistSlope.jpg"); 
   background-size: 100vw auto;
   background-position: center center;
   background-attachment: fixed;
@@ -525,11 +525,13 @@ margin: 20px;
   overflow-x: auto;
 }
 
-.test-photo {
+.sar {
   display: inline-block;
   height: 600px;
   width: 800px;
-  background-image: url("./Images/Memorial.jpg");
+  background-image: url("./Images/Photography/Sarra.JPG");
+  background-size: 800px auto;
+  background-position: center center;
   margin: 20px;
   margin-top: 60px;
   margin-bottom: 60px;
@@ -537,9 +539,134 @@ margin: 20px;
   z-index: 1;
 }
 
-.test-photo:hover {
-  transform: scale(1.2, 1.2);
+.nep {
+  display: inline-block;
+  height: 600px;
+  width: 800px;
+  background-image: url("./Images/Photography/NepVen.JPG");
+  background-size: 800px auto;
+  background-position: center center;
+  margin: 20px;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  border-radius: 20px;
+  z-index: 1;
 }
+
+.feather {
+  display: inline-block;
+  height: 600px;
+  width: 800px;
+  background-image: url("./Images/Photography/BranchFeather.JPG");
+  background-size: 800px auto;
+  background-position: center center;
+  margin: 20px;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  border-radius: 20px;
+  z-index: 1;
+}
+
+.clouds {
+  display: inline-block;
+  height: 600px;
+  width: 800px;
+  background-image: url("./Images/Photography/Clouds.JPG");
+  background-size: 800px auto;
+  background-position: center center;
+  margin: 20px;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  border-radius: 20px;
+  z-index: 1;
+}
+
+.moon {
+  display: inline-block;
+  height: 600px;
+  width: 800px;
+  background-image: url("./Images/Photography/DayMoon.JPG");
+  background-size: 800px auto;
+  background-position: center center;
+  margin: 20px;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  border-radius: 20px;
+  z-index: 1;
+}
+
+.botanic {
+  display: inline-block;
+  height: 600px;
+  width: 800px;
+  background-image: url("./Images/Photography/BotanicGarden.JPG");
+  background-size: 800px auto;
+  background-position: center center;
+  margin: 20px;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  border-radius: 20px;
+  z-index: 1;
+}
+
+.dionaea {
+  display: inline-block;
+  height: 600px;
+  width: 800px;
+  background-image: url("./Images/Photography/Dionaea.JPG");
+  background-size: 800px auto;
+  background-position: center center;
+  margin: 20px;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  border-radius: 20px;
+  z-index: 1;
+}
+
+.goldenburman {
+  display: inline-block;
+  height: 600px;
+  width: 800px;
+  background-image: url("./Images/Photography/GoldenBurmannii.JPG");
+  background-size: 800px auto;
+  background-position: center center;
+  margin: 20px;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  border-radius: 20px;
+  z-index: 1;
+}
+
+.burmancover {
+  display: inline-block;
+  height: 600px;
+  width: 800px;
+  background-image: url("./Images/Photography/BurmanniiCover.JPG");
+  background-size: 800px auto;
+  background-position: center center;
+  margin: 20px;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  border-radius: 20px;
+  z-index: 1;
+}
+
+.raintree {
+  display: inline-block;
+  height: 600px;
+  width: 800px;
+  background-image: url("./Images/Photography/RainTree.JPG");
+  background-size: 800px auto;
+  background-position: center center;
+  margin: 20px;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  border-radius: 20px;
+  z-index: 1;
+}
+/* .sar:hover, .nep:hover, .feather:hover, .moon:hover, .clouds:hover {
+  transform: scale(1.2, 1.2);
+} */
 /* ------------------------------------------------------------------------------------------- */
 
 

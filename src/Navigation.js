@@ -9,7 +9,7 @@ function Navigation({ home }) {
                 <li><Link to='/about'>About</Link></li>
                 <li><Link to='/past-projects'>Projects</Link></li>
 
-                {/* <li><Link to='/photography'>Photography</Link></li> */}
+                <li><Link to='/photography'>Photography</Link></li>
                 <li><Link to='/contact'>Contact</Link></li>
                 <li><Link to='/resume'>Resume</Link></li>
             </ul>

@@ -22,7 +22,7 @@ function Footer({ page }) {
                         All photos are mine. GitHub and LinkedIn icons are from Font Awesome.
                     </p>
                     <p>
-                        Site last edited: September 18, 2021
+                        Site last edited: October 3, 2021
                     </p>
                 </div>
 

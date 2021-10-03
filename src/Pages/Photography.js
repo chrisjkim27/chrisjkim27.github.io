@@ -14,16 +14,26 @@ function Photography() {
 
     return (
         <div className="photo-page-container">
-            <Sidebar home={false}/>
+            <Sidebar home={false} />
 
             <h1 className="page-header" id="photo-header">Photography</h1>
 
             <div className="test-photo-container">
-                <div className="test-photo"/>
-                <div className="test-photo"/>
-                <div className="test-photo"/>
-                <div className="test-photo"/>
-                <div className="test-photo"/>
+                <div className="clouds" />
+                <div className="burmancover" />
+                <div className="sar" />
+                <div className="moon" />
+                <div className="nep" />
+
+            </div>
+
+            <div className="test-photo-container">
+                <div className="goldenburman" />
+                <div className="raintree" />
+                <div className="dionaea" />
+                <div className="feather" />
+                <div className="botanic" />
+
             </div>
 
             {/* <div>
@@ -34,7 +44,7 @@ function Photography() {
                 <img src={photo} alt="Photo" width="300"/> 
             </div> */}
 
-            <Footer page="subpage"/>
+            <Footer page="subpage" />
         </div>
     )
 }
