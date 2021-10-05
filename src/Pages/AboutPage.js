@@ -18,8 +18,6 @@ function AboutPage() {
                 <p>
                     Outside of academics I enjoy playing piano and enjoying
                     the nature in the Ithaca area.
-                    While I'm not an expert in piano, I can say pretty confidently
-                    say that I am a Chopin fan.
                 </p>
                 <p>
                     This website is a personal project built entirely with React, styled

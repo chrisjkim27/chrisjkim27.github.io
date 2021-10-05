@@ -19,20 +19,20 @@ function Photography() {
             <h1 className="page-header" id="photo-header">Photography</h1>
 
             <div className="test-photo-container">
-                <div className="clouds" />
-                <div className="burmancover" />
-                <div className="sar" />
-                <div className="moon" />
-                <div className="nep" />
+                <div className="photo-item" id="clouds" />
+                <div className="photo-item" id="burmancover" />
+                <div className="photo-item" id="sar" />
+                <div className="photo-item" id="moon" />
+                <div className="photo-item" id="nep" />
 
             </div>
 
             <div className="test-photo-container">
-                <div className="goldenburman" />
-                <div className="raintree" />
-                <div className="dionaea" />
-                <div className="feather" />
-                <div className="botanic" />
+                <div className="photo-item" id="goldenburman" />
+                <div className="photo-item" id="raintree" />
+                <div className="photo-item" id="dionaea" />
+                <div className="photo-item" id="feather" />
+                <div className="photo-item" id="botanic" />
 
             </div>
 

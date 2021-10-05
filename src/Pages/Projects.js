@@ -49,8 +49,7 @@ function Projects() {
                     text="As mentioned elsewhere on this site, I made this
                         website using React and CSS. I learned a ton of
                         CSS and became more familiar with React as well.
-                        I used react-router-dom for the multi-page functionality
-                        and used react-pdf for displaying my resume pdf."
+                        I used react-router-dom for the multi-page functionality."
                     imgs={[webHome]}
                     lang="react" />
 
