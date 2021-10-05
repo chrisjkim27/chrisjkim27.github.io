@@ -3,6 +3,7 @@ import Footer from '../Footer'
 import Sidebar from '../Sidebar'
 import { Document, Page } from 'react-pdf/dist/esm/entry.webpack';
 import resumepdf from '../resume.pdf'
+import res from '../Resume.jpg'
 
 function Resume() {
 
@@ -21,9 +22,10 @@ function Resume() {
 
 
                 <div className="resume-display">
-                    <Document file={resumepdf}>
+                    {/* <Document file={resumepdf}>
                         <Page pageNumber={1} width={900} />
-                    </Document>
+                    </Document> */}
+                    <img src={res} alt="Resume" />
                 </div>
 
             </div>
